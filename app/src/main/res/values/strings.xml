@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">立支宝</string>
+    <string name="userNameHint">请输入账号</string>
+    <string name="passwordHint">请输入密码</string>
+    <string name="login">登录</string>
+    <string name="xiafang">注册</string>
+    <string name="TaoBaoDeLu">淘宝账号登录</string>
+    <string name="WangJiMiMa">忘记密码？</string>
+</resources>
